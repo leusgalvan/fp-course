@@ -1,0 +1,7 @@
+target
+.idea
+.bsp
+out
+project/project/
+project/target/
+target/
